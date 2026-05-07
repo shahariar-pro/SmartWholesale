@@ -1,7 +1,7 @@
 # SmartWholesale Management System
 
 ## Project Overview
-**SmartWholesale** is a comprehensive Wholesale Management System developed for the **CSC2210 Object Oriented Programming 2** course at **AIUB** (Spring 2025-2026). The project is supervised by **Kazi Sadia**.
+**SmartWholesale** is a comprehensive Wholesale Management System developed for the **CSC2210 Object Oriented Programming 2** course at **AIUB** (Spring 2025-2026). The project is supervised by **Dr. Md. Iftekharul Mobin**.
 
 The system is designed as a 3-tier desktop application using **C# Windows Forms** and **SQL Server**. It models a wholesale platform that connects Business Owners (2nd party) with Customers (1st party), with the system acting as the IT platform provider (3rd party).
 
