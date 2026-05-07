@@ -1,4 +1,4 @@
-# Project Report: SmartWholesale Management System
+# SmartWholesale Management System
 
 ## 1. Title
 **SmartWholesale**  
